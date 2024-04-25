@@ -1,0 +1,10 @@
+Aluno:João Carlos Pacifico Dias
+Cor: Azul
+
+Se essa rua fosse minha eu mandava eu mandava ladrilhar
+com pedrinhas com pedrinhas de brilhante
+para o meu para o meu amor passar
+
+A Arquitetura de Computadores é forma que os computadores são montados, 
+pensando na organização de seus componentes para obter uma melhor qualidade 
+e desempenho em suas funções.
