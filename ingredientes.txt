@@ -1,5 +1,9 @@
 1 pacote de miojo
 1 poção de ketchup
 4 colheres de sopa de ketchup
+<<<<<<< HEAD
 1 pedaço queijo mussarela
 2 colheres de molho de pimenta
+=======
+1 pedaço queijo mussarela
+>>>>>>> bugfix
